@@ -6,3 +6,5 @@ C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\Te
 C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csproj.GenerateResource.Cache
 C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
 C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
+C:\Users\mferland\Source\Repos\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
+C:\Users\mferland\Source\Repos\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb

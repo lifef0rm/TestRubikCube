@@ -11,6 +11,7 @@ namespace TestRubikCube
 {
     class GameGrid
     {
+        //my changes
 
         public Bitmap bmpImage = null;
         public int gridWidth = 128;
