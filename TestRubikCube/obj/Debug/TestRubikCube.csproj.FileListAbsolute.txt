@@ -1,0 +1,8 @@
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\bin\Debug\TestRubikCube.exe
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\bin\Debug\TestRubikCube.pdb
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csprojResolveAssemblyReference.cache
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.Form1.resources
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.Properties.Resources.resources
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csproj.GenerateResource.Cache
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
+C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
