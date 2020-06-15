@@ -16,6 +16,7 @@ namespace TestRubikCube
     {
         GameGrid gg = new GameGrid();
 
+        
 
         const int UP = 1;
         const int DOWN = 2;
@@ -44,6 +45,8 @@ namespace TestRubikCube
             redraw();
             remix();
 
+            var s = new ClassLibrary1.Class1();
+            
         }
 
         void remix()
