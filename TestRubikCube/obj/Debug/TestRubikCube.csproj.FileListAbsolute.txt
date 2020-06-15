@@ -8,3 +8,11 @@ C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\Te
 C:\Projects\TestRubikCube\TestRubikCube\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
 C:\Users\mferland\Source\Repos\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
 C:\Users\mferland\Source\Repos\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\bin\Debug\TestRubikCube.exe
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\bin\Debug\TestRubikCube.pdb
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csprojAssemblyReference.cache
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.Form1.resources
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.Properties.Resources.resources
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csproj.GenerateResource.cache
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
