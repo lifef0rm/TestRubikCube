@@ -16,3 +16,7 @@ C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestR
 C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csproj.GenerateResource.cache
 C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.exe
 C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.pdb
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\bin\Debug\TestRubikCube.exe.config
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\bin\Debug\ClassLibrary1.dll
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\bin\Debug\ClassLibrary1.pdb
+C:\Users\lifef\Source\Repos\lifef0rm\TestRubikCube\TestRubikCube\obj\Debug\TestRubikCube.csproj.CopyComplete
